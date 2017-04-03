@@ -11,7 +11,15 @@
     "type": "git",
     "url": "git+https://github.com/NUKnightLab/TimelineJS3.git"
   },
-  "keywords": [],
+  "keywords": [
+    "timeline",
+    "storytelling",
+    "timelinejs",
+    "timeline.js",
+    "history",
+    "googledocs",
+    "storify"
+  ],
   "author": "",
   "license": "Mozilla Public License 2.0",
   "bugs": {
